@@ -48,6 +48,6 @@ from sklearn.metrics import accuracy_score
 ```
 ## Summary
 
-In this Python mini project, we learned to recognize emotions from speech. We used an MLPClassifier for this and made use of the soundfile library to read the sound file, and the librosa library to extract features from it. As you’ll see, the model delivered an accuracy of 77.6%. That’s good enough for us yet.
+In this Python mini project, we learned to recognize emotions from speech. We used an MLPClassifier for this and made use of the soundfile library to read the sound file, and the librosa library to extract features from it. As you’ll see, the model delivered an accuracy of 77.6%.
 
 Hope you enjoyed the mini python project.
